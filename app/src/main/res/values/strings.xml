@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Convertor</string>
+    <string name="welcome_to_android_convertor">Welcome to Android Convertor</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="centimeter">Centimeter</string>
+    <string name="meter">Meter</string>
+    <string name="textview">TextView</string>
+    <string name="Enter_number">Enter number ...</string>
+    <string name="_1m_100_cm">1M = 100 CM</string>
+    <string name="meter_fun">\"Value in meters:  \"</string>
+    <string name="output">output</string>
+    <string name="start">\"Value in meter:  \"</string>
+    <string name="power">\"Value in centimeter:  \"</string>
+    <string name="meter_to_centimeter_and_centimeter_to_meter_convertor">Meter to Centimeter and Centimeter to Meter Convertor</string>
+</resources>
